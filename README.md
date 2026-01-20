@@ -20,3 +20,8 @@ Tic Tac Toe game built using HTML, CSS and JavaScript.
 - **HTML** — Structure
 - **CSS** — Styling & layout
 - **JavaScript** — Game logic & interactivity
+
+🚀 Demo
+
+Play the game here: https://debraj170806-web.github.io/TIC-TAC-TOE/
+
